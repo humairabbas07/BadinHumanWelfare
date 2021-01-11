@@ -1,1 +1,1 @@
-# BadinHumanWelfare
+# to run this code you need to open BHW directory and write " python manange.py runserver " on cmd and a link will appear open that link and you will see a page (local  server) on your browser than add /module to the end of that link and website will apear
